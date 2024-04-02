@@ -1,7 +1,7 @@
 Olá! Neste repositório se encontram as planilhas, dataframes e gráficos produzidos
 durante a 'Imersão Python: do Excel à análise de dados, promovida pela plataforma Alura!.
 
-Faça download da planilha do Google Sheets em primeiro lugar, e em seguida, passe para o Google Colab para observar as análises
+Faça _*download da planilha do Google Sheets*_ em primeiro lugar, e em seguida, passe para o Google Colab para observar as análises
 (alterando o path no início do código para o seu repositório local).
 Os dados nesta imersão se tratam de ações da bolsa de valores e suas variações ao longo do tempo.
 
